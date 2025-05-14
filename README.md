@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sakoya00&animated=true&theme=tokyonight" alt="LeetCode Badges" />
 
 ###
+
+![Snake animation](https://raw.githubusercontent.com/sakoya00/sakoya00/output/github-contribution-grid-snake-dark.svg)
